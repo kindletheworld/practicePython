@@ -30,4 +30,4 @@ while True:
     elif var3 == "quit":
         break
     else:
-        print("You've selected a wrong option, please select sum or diff or multiplication or division")
+        print("You've selected a wrong option, please select sum or diff or mul or div")
